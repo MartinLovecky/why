@@ -1,0 +1,17 @@
+{
+    "name": "jirid/why",
+    "description": "project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jirid\\Why\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Lovecky"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
